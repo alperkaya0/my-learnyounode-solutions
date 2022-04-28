@@ -1,4 +1,4 @@
-// new Date().getTime() => Unix time in milliseconds
+// new Date().getTime() EQUALS Unix time in milliseconds
 const http = require("http");
 const url = require("url");
 
